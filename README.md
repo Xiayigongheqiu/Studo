@@ -1,12 +1,4 @@
-<h6 align="center">🏳️‍⚧️By the Grace of Blåhaj🦈</h6>
-<h5 align="center">🏳️‍⚧️Supreme Instruction🦈
-  <br>
-  <b><i>English and Mathematics are extremely important</i></b>
-</h5>
-
----
-
-<h2 align="center">🏳️‍⚧️A Study Plan until October🦈</h2>
+<h2 align="center">🏳️‍⚧️A Study Plan until October🏳️‍⚧️</h2>
 
 *This plan is about Nationwide Master's Program Unified Admissions Examination*<br>
 
@@ -17,7 +9,7 @@
 
 ---
 
-<h2 align="center">🏳️‍⚧️A Study about STHEE🦈</h2>
+<h2 align="center">🏳️‍⚧️A Study about STHEE🏳️‍⚧️</h2>
 
 *According to Self-Taught Higher Education Examinations[^1] and relevant plans*
 
